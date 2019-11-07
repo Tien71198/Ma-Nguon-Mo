@@ -1,0 +1,8 @@
+.nav
+{
+    background-color: springgreen;
+}
+li:hover
+{
+    background-color: rgb(10, 235, 21);
+}
